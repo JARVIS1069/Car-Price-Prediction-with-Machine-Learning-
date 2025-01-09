@@ -1,5 +1,5 @@
 
-# Car Price Prediction with Machine Learning
+# Car Price Prediction with Machine Learning 🚙
 This project aims to predict car prices based on their features using machine learning algorithms. It provides an efficient and accurate way to estimate car prices, helping buyers, sellers, and businesses make informed decisions in the automotive market.
 
 # Overview
